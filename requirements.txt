@@ -1,0 +1,8 @@
+# SDK-drone base requirements
+# Backend-specific packages listed in INSTALLATION.md
+
+numpy>=1.21.0
+
+# Optional — install for your backend:
+# pymavlink          # MAVLink (ArduCopter / PX4)
+# airsim             # AirSim simulator

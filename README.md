@@ -2,6 +2,8 @@
 
 Universal Drone SDK for any drone integration.
 
+> Full installation guide: [INSTALLATION.md](INSTALLATION.md)
+
 ## Supported Backends
 
 | Backend | Hardware | Connection |
